@@ -4,6 +4,9 @@
 ## Description
 This is a node project using jest and inquirer to build an SVG logo maker. 
 
+## Preview of The Program
+[SVG logo maker video](https://youtu.be/oV8oYHfsyOg)
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
