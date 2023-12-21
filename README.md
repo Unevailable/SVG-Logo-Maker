@@ -1,5 +1,5 @@
 # SVG-Logo-Maker
-![License](https://img.shields.io/badge/license-MIT%20License-brightgreen)
+[![License](https://img.shields.io/badge/license-MIT%20License-brightgreen)](https://opensource.org/licenses/MIT)
 
 ## Description
 This is a node project using jest and inquirer to build an SVG logo maker. 
